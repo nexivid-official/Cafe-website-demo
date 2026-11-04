@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Coffee — Cinematic Scroll Experience",
+  "description": "A luxury, scroll-driven coffee brand experience featuring an interactive cinematic animation, bean-drop reveal, and signature brew collection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
